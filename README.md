@@ -41,3 +41,16 @@ Abre `http://localhost:5173` en el navegador.
 ## Proyecto
 
 Ubicación: `C:\Users\danie\Projects\zhongwen-diario`
+
+---
+
+## 📱 Descargar Aplicación Android
+
+¿Quieres probar la app en tu celular?
+
+[📥 **Descargar APK aquí**](https://drive.google.com/file/d/1p7BDbH61J1SF4W1UckCVwjT_ih7yACIb/view?usp=sharing)
+
+> **Importante:** 
+> 1. El enlace lleva a Google Drive.
+> 2. En tu celular, permite la instalación de "Fuentes desconocidas" si el sistema te lo pide.
+> 3. Esta es una versión de prueba (debug).   
